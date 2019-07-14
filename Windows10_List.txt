@@ -1,0 +1,9 @@
+Remove OneDrive
+Disable telemetry
+Remove pinned apps
+turn off hibernation
+remove default apps
+remove defaultusers
+Disable defender
+unpin everything start menu
+unpin taskbar

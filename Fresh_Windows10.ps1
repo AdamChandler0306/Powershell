@@ -1,0 +1,2 @@
+# This script is to be used on newly built Windows 10 machines to remove unwanted apps and plug security holes.
+# The script will be built based on a menu to include the different build numbers of Windows 10 (1511,1607,1703)
